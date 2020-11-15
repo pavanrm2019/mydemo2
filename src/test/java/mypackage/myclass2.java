@@ -6,6 +6,6 @@ public class myclass2 {
 @Test
 public void method2() {
 	System.out.print("inside method2");
-	System.out.print("inside method baranch test 5th commit");
+	System.out.print("inside method baranch test 6th commit");
 }
 }
